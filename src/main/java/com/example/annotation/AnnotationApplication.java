@@ -7,8 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Arrays;
 
-import static java.lang.System.*;
-
 @SpringBootApplication
 public class AnnotationApplication implements CommandLineRunner {
 
